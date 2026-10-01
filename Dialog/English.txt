@@ -1,3 +1,5 @@
 TEYMINAL_ABYSS_MEOW=
 [MADELINE left normal]
 meow
+
+setups=setups hehe

@@ -3,3 +3,5 @@
   Dependencies:
     - Name: Everest
       Version: 1.6531.0
+    - Name: MaxHelpingHand
+      Version: 1.40.10
