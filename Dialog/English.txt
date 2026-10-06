@@ -2,4 +2,37 @@ TEYMINAL_ABYSS_MEOW=
 [MADELINE left normal]
 meow
 
+teyminal_abyss_secrets_0=
+You know… sometimes, you decide to something for no reason…
+Just, making your life harder… but on purpose ?
+Well if that's what you want, you can follow me, or rather my traces.
+I left some notes hidden in the crevices of this cave, in some places you shouldn't normally reach.
+There is nothing in there for you to gain
+…except for the challenge…
+But that's what you like, isn't it?
+…
+see you soon !
+
+teyminal_abyss_secrets_1=
+Sometimes, even real life feel like a game, you increase your money score, you maintain your favorability with other people,
+I mean, it's more that games are like real life, but sometimes I end up forgetting which way it is supposed to be.
+
+teyminal_abyss_secrets_2=
+And so, I end up treating life as a game
+…
+What would happend if I answered that ? Lets try !
+I don't think it's a bad way to see it.
+
+teyminal_abyss_secrets_3=
+Of course, you can't just quick save and reload real life.
+Or can you ?
+Is meeting a new person, or going to a new activity just a new save file in which you can play differently ?
+
+teyminal_abyss_secrets_4=
+To me, it is a bit like that, a way to reset the game, see if I got any better at *people*.
+But still, there are some saves, some people with which I want to continue to play
+And some I don't…
+Sometimes, I stop seeing someone, or they stop seeing me, or both.
+Honnestly, that's ok. I have other games to play, and so do they.
+
 setups=setups hehe
