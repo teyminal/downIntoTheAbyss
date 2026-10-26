@@ -35,4 +35,66 @@ And some I don't…
 Sometimes, I stop seeing someone, or they stop seeing me, or both.
 Honnestly, that's ok. I have other games to play, and so do they.
 
+teyminal_abyss_secrets_5=
+Sometimes real life becomes too real, when you realise that there is no other life, no reset, and no way to change the plot.
+
+Sometimes, you just want to return to title screen…
+maybe you'll want to continue later…
+…
+maybe not
+
+teyminal_abyss_secrets_6=
+Except there is no title screen
+Only one choice
+
+Exit game
+
+And you can't come back to it later
+
+
+teyminal_abyss_a_11_1=
+[BADELINE left normal]
+Trust me, it's easier than it looks, just crouch and jump to the left
+
+teyminal_abyss_a_11_2=
+[BADELINE left normal]
+Stay crouched, and dash to the left
+
+teyminal_abyss_a_11_3=
+[BADELINE left normal]
+Now jump to the left
+
+teyminal_abyss_a_11_4=
+[BADELINE left normal]
+One more time
+
+teyminal_abyss_a_11_5=
+[BADELINE left normal]
+Go to the right and climb under that ledge
+
+teyminal_abyss_a_11_6=
+[BADELINE left normal]
+just dash to the left and grab that other wall
+
+teyminal_abyss_a_11_7=
+[BADELINE left normal]
+Look to the right and let yourself fall
+
+teyminal_abyss_a_11_8=
+[BADELINE left normal]
+now just crouch and dash under that spiky thing, see it wasn't that hard
+
+teyminal_abyss_a_11_9=
+[BADELINE left normal]
+Oh… that looks precise… 
+To the pixel actually
+I think if you go to that wall on the left…
+release your hold…
+and jump from the wall without trying to go in any direction,
+You should go right through the spikes.
+
+teyminal_abyss_a_11_10=
+you know, there might be pixel perfect gaps here, but you should not have to ever line them up, there is always a setup 
+I mean you can also do it manually, though
+
 setups=setups hehe
